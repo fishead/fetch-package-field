@@ -1,0 +1,17 @@
+{
+  "name": "@fishead/fetch-package-field",
+  "version": "0.0.1",
+  "description": "print version of current package.json",
+  "main": "index.js",
+  "bin": {
+    "fetch-package-field": "./index.js",
+    "fpf": "./index.js"
+  },
+  "repository": "git@github.com:fishead/fetch-package-field.git",
+  "author": "Chuan Zh. <zhchuan7@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  }
+}
