@@ -1,7 +1,7 @@
 {
   "name": "@fishead/fetch-package-field",
   "version": "0.1.0",
-  "description": "print version of current package.json",
+  "description": "print field value of current package.json to stdout",
   "main": "index.js",
   "bin": {
     "fetch-package-field": "./index.js",
